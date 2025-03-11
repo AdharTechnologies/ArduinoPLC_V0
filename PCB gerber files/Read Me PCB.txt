@@ -1,0 +1,9 @@
+#Notes
+
+1. Board size ( 80.24 mm X 192.52 mm) 
+
+2. Both side Masking needed
+
+3. Double sided PCB
+
+5. Via size 1.6 mm diameter, 1.0 mm hole. 
